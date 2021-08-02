@@ -30,22 +30,6 @@ nav ul li
     cursor: pointer;
 }
 
-.goTop
-{
-    position: relative;
-    bottom: 2em;
-    right: 2em;
-    /* z-index: 20000; */
-}
-
-button
-{
-    position: absolute;
-    background: red;
-    /* position: sticky; */
-    bottom: 3em;
-}
-
 
 /*//////////////////////////////////////////////////////////////
 
